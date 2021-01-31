@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FintechLab</string>
+    <string name="header">Random GIFs</string>
+
+    <string name="button_next">Next</string>
+    <string name="button_prev">Prev</string>
+
+    <string name="loading">Загрузка...</string>
+</resources>
